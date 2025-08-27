@@ -1,6 +1,6 @@
 export default {
   server: {
     host: true,
-    allowedHosts: ['testing.sayantan.space']
+    allowedHosts: ['tutorial.sayantan.space']
   }
 }
