@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react';
 
-const API_URL = 'http://localhost:4000/api';
+const API_URL = 'http://13.232.72.134:4000/api';
 
 interface Tweet {
   id: number;
