@@ -1,5 +1,6 @@
-export default defineConfig({
+export default {
   server: {
+    host: true,
     allowedHosts: ['testing.sayantan.space']
   }
-})
+}
